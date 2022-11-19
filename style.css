@@ -4,10 +4,11 @@ body {
   margin: 0;
   display: flex;
   justify-content: center;
-  background-color: #332F35;
-  font-family: 'Source Serif Pro', serif;
+  background-color: #fafafa;
+  font-family: monospace;
   letter-spacing: -0.02em;
-  color: #665F6C;
+  color: #dadada;
+  font-weight: 600;
 }
 
 .header {
