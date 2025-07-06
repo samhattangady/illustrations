@@ -17,6 +17,12 @@ body {
   padding-top: 2em;
 }
 
+.ill-holder {
+  display:flex;
+  justify-content:center;
+  width: 100%;
+}
+
 .illustration {
   max-height: 80vh;
   max-width: 90vw;
