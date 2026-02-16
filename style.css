@@ -16,6 +16,13 @@ body {
   font-size: 2em;
   padding-top: 2em;
 }
+.subheader {
+  text-align: center;
+}
+
+.link {
+  color: #aaaada;
+}
 
 .ill-holder {
   display:flex;
